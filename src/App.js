@@ -54,6 +54,9 @@ function App() {
           {outputAmount && <p>Output: ${outputAmount}</p>}
         </div>
       </div>
+      <footer className="footer">
+        <p>&copy; 2025 NEXIFY. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
